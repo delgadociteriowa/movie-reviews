@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://carlos123:H6ICocQ639PMdZJ5@moviereviews.q1ywc.mongodb.net/MovieReviews?retryWrites=true&w=majority",
+  "jwtSecret": "thesecret"
+}
